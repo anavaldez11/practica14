@@ -1,0 +1,15 @@
+body{
+   background-color: #FCAE9D;
+  }
+.jumbotron{
+ background-color: #ffcdc2;
+}
+
+td{
+  
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
